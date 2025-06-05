@@ -1,5 +1,7 @@
 package tasks_from_leetcode.middleNode;
 
+import tasks_from_leetcode.addTwoNumbers.ListNode;
+
 public class Solution {
     public ListNode middleNode(ListNode head) {
         if (head == null) return null;
