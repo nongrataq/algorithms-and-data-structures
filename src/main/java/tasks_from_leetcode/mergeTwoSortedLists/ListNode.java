@@ -1,7 +1,7 @@
-package tasks_from_leetcode.addTwoNumbers;
+package tasks_from_leetcode.mergeTwoSortedLists;
 
 public class ListNode {
-    public int val;
+    int val;
     public ListNode next;
 
     public ListNode() {
